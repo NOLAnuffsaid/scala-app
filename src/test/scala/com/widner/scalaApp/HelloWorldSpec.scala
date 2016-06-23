@@ -6,7 +6,7 @@ class HelloWorldSpec extends Specification { def is = s2"""
 
   This is a specification to check the 'Hello World' string
 
-  The 'Hello World' string should
+  The 'Hello, World' string should
     start with 'Hello'                   $e1
     end with 'World!'                    $e2
     contain 13 characters                $e3
